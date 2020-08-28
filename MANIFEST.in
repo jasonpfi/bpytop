@@ -1,0 +1,7 @@
+include LICENCE
+include README
+include requirements.txt
+include CODE_OF_CONDUCT.md
+include CONTRIBUTING.md
+recursive-include imgs/ *
+recursive-include themes/ *
